@@ -1,0 +1,48 @@
+[15:38:51.528] [INFO   ] thread main starting.
+[15:38:51.535] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[15:38:51.538] [SEVERE ] configuration file was loaded from resources directory.
+[15:38:52.079] [INFO   ] thread dealer starting.
+[15:38:52.079] [INFO   ] thread dealer starting.
+[15:38:52.080] [INFO   ] thread Thread-0 starting.
+[15:38:52.080] [INFO   ] thread Thread-2 starting.
+[15:38:52.080] [INFO   ] thread Thread-1 starting.
+[15:38:52.081] [INFO   ] thread computer-2 starting.
+[15:38:52.195] [SEVERE ] placing card 53 in slot 0
+[15:38:52.304] [SEVERE ] placing card 56 in slot 1
+[15:38:52.414] [SEVERE ] placing card 22 in slot 2
+[15:38:52.523] [SEVERE ] placing card 35 in slot 3
+[15:38:52.633] [SEVERE ] placing card 25 in slot 4
+[15:38:52.742] [SEVERE ] placing card 5 in slot 5
+[15:38:52.855] [SEVERE ] placing card 60 in slot 6
+[15:38:52.962] [SEVERE ] placing card 41 in slot 7
+[15:38:53.074] [SEVERE ] placing card 73 in slot 8
+[15:38:53.184] [SEVERE ] placing card 79 in slot 9
+[15:38:53.294] [SEVERE ] placing card 32 in slot 10
+[15:38:53.404] [SEVERE ] placing card 24 in slot 11
+[15:38:57.200] [SEVERE ] player 3 placing token on slot 11
+[15:38:57.909] [SEVERE ] player 3 placing token on slot 0
+[15:39:01.412] [SEVERE ] player 3 placing token on slot 9
+[15:39:01.428] [SEVERE ] setting player 3 score to 1
+[15:39:01.534] [SEVERE ] removing card from slot 11
+[15:39:01.644] [SEVERE ] placing card 43 in slot 11
+[15:39:01.755] [SEVERE ] removing card from slot 0
+[15:39:01.863] [SEVERE ] placing card 80 in slot 0
+[15:39:01.973] [SEVERE ] removing card from slot 9
+[15:39:02.082] [SEVERE ] placing card 11 in slot 9
+[15:39:02.082] [SEVERE ] removing player 3 token from slot 11
+[15:39:02.082] [SEVERE ] removing player 3 token from slot 0
+[15:39:02.083] [SEVERE ] removing player 3 token from slot 9
+[15:39:03.491] [SEVERE ] player 3 placing token on slot 9
+[15:39:06.300] [SEVERE ] player 3 placing token on slot 10
+[15:39:08.404] [SEVERE ] player 3 placing token on slot 0
+[15:39:08.452] [SEVERE ] setting player 3 score to 2
+[15:39:08.561] [SEVERE ] removing card from slot 9
+[15:39:08.668] [SEVERE ] placing card 18 in slot 9
+[15:39:08.754] [SEVERE ] exit button pressed
+[15:39:08.754] [INFO   ] thread Thread-0 terminated.
+[15:39:08.754] [INFO   ] thread Thread-1 terminated.
+[15:39:08.754] [INFO   ] thread dealer terminated.
+[15:39:08.754] [INFO   ] thread computer-2 terminated.
+[15:39:08.754] [INFO   ] thread Thread-2 terminated.
+[15:39:08.755] [SEVERE ] thanks for playing... it was fun!
+[15:39:08.755] [INFO   ] thread main terminated.

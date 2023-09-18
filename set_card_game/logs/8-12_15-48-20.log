@@ -1,0 +1,62 @@
+[15:48:20.111] [INFO   ] thread main starting.
+[15:48:20.120] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[15:48:20.124] [SEVERE ] configuration file was loaded from resources directory.
+[15:48:21.093] [INFO   ] thread dealer starting.
+[15:48:21.095] [INFO   ] thread dealer starting.
+[15:48:21.096] [INFO   ] thread Thread-0 starting.
+[15:48:21.096] [INFO   ] thread Thread-2 starting.
+[15:48:21.096] [INFO   ] thread Thread-1 starting.
+[15:48:21.106] [INFO   ] thread computer-2 starting.
+[15:48:21.218] [SEVERE ] placing card 25 in slot 0
+[15:48:21.327] [SEVERE ] placing card 56 in slot 1
+[15:48:21.435] [SEVERE ] placing card 51 in slot 2
+[15:48:21.545] [SEVERE ] placing card 61 in slot 3
+[15:48:21.655] [SEVERE ] placing card 28 in slot 4
+[15:48:21.765] [SEVERE ] placing card 79 in slot 5
+[15:48:21.873] [SEVERE ] placing card 24 in slot 6
+[15:48:21.982] [SEVERE ] placing card 60 in slot 7
+[15:48:22.092] [SEVERE ] placing card 7 in slot 8
+[15:48:22.203] [SEVERE ] placing card 4 in slot 9
+[15:48:22.314] [SEVERE ] placing card 34 in slot 10
+[15:48:22.425] [SEVERE ] placing card 67 in slot 11
+[15:48:22.536] [SEVERE ] updating countdown to 30000
+[15:48:22.647] [SEVERE ] updating countdown to 29900
+[15:48:22.759] [SEVERE ] updating countdown to 29800
+[15:48:22.870] [SEVERE ] updating countdown to 29700
+[15:48:22.979] [SEVERE ] updating countdown to 29600
+[15:48:23.089] [SEVERE ] updating countdown to 29500
+[15:48:23.199] [SEVERE ] updating countdown to 29400
+[15:48:23.308] [SEVERE ] updating countdown to 29300
+[15:48:23.415] [SEVERE ] updating countdown to 29200
+[15:48:23.520] [SEVERE ] updating countdown to 29100
+[15:48:23.631] [SEVERE ] updating countdown to 29000
+[15:48:23.742] [SEVERE ] updating countdown to 28900
+[15:48:23.853] [SEVERE ] updating countdown to 28800
+[15:48:23.962] [SEVERE ] updating countdown to 28700
+[15:48:24.071] [SEVERE ] updating countdown to 28600
+[15:48:24.181] [SEVERE ] updating countdown to 28500
+[15:48:24.288] [SEVERE ] updating countdown to 28400
+[15:48:24.397] [SEVERE ] updating countdown to 28300
+[15:48:24.508] [SEVERE ] updating countdown to 28200
+[15:48:24.619] [SEVERE ] updating countdown to 28100
+[15:48:24.729] [SEVERE ] updating countdown to 28000
+[15:48:24.839] [SEVERE ] updating countdown to 27900
+[15:48:24.950] [SEVERE ] updating countdown to 27800
+[15:48:25.061] [SEVERE ] updating countdown to 27700
+[15:48:25.169] [SEVERE ] updating countdown to 27600
+[15:48:25.278] [SEVERE ] updating countdown to 27500
+[15:48:25.386] [SEVERE ] updating countdown to 27400
+[15:48:25.496] [SEVERE ] updating countdown to 27300
+[15:48:25.527] [SEVERE ] player 3 placing token on slot 0
+[15:48:25.604] [SEVERE ] updating countdown to 27200
+[15:48:25.715] [SEVERE ] updating countdown to 27100
+[15:48:25.826] [SEVERE ] updating countdown to 27000
+[15:48:25.936] [SEVERE ] updating countdown to 26900
+[15:48:26.047] [SEVERE ] updating countdown to 26800
+[15:48:26.066] [SEVERE ] exit button pressed
+[15:48:26.067] [INFO   ] thread Thread-1 terminated.
+[15:48:26.067] [INFO   ] thread Thread-2 terminated.
+[15:48:26.067] [INFO   ] thread dealer terminated.
+[15:48:26.067] [INFO   ] thread Thread-0 terminated.
+[15:48:26.067] [SEVERE ] thanks for playing... it was fun!
+[15:48:26.067] [INFO   ] thread main terminated.
