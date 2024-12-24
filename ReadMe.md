@@ -1,3 +1,5 @@
+
+<br>
 <br>
 
 ---
@@ -9,38 +11,60 @@
 
 
 
-### 1. <span style="color:#9c8358;">**ERP system :**</span> ERP system for a retail company (when i've implemented **1** of 4 different modules)
+### 1. <span style="color:#9c8358;">**E-commerce system :**</span> modular delivery management system
 
-- Team work (modules integration)
-- DB (mySQL,controllers,DAO&DTO)
-- Diagrams (usecase / class / object diagrams)
-- ***for further information [press here](#erp-system)***
+- Language : C#
+- My part : implemented 1 out of 4 modules (**Transport**, HR, Branches, Supplier)
+- Key Features :
+    - delivery scheduling
+    - truck management
+    - data visualization supported by UML documentation.
 
-### 2. <span style="color:#9c8358;">**Football Broadcast :**</span> active broadcast communicating with several clients while broad-casting football tournament.
-- Communication (Server-Client, UDP/TCP, Reactor, RCI)
-- Multi-Thread (Thread per client, Thread pool)
-- ***for further information [press here](#football-broadcast)***
+- ***for further implementat information [press here](#erp-system)***
+
+### 2. <span style="color:#9c8358;">**Football Broadcast :**</span>  real-time server communication with multiple clients
+- Language : cpp, java
+- My Part : server side implementation
+- key Features :
+    - Communication (Server-Client, UDP/TCP, RCI)
+    - Concrrency ( Reactor pattern | Thread per client | Thread pool )
+
+- ***for further implementation information [press here](#football-broadcast)***
 
 ### 3. <span style="color:#9c8358;">**Set Card Game :**</span> an implementation of the original set card game. 
-- Multi-Thread
-- Visitor pattern
-- UI
+- Language : Java
+- Key Features :
+    - Concurrency (Thread-Pool, Thread-Per-Client)
+    - Visitor pattern
+    - data visualizations
+    - logger (game tracking)
+
 - ***for further information [press here](#set-card-game)***
 
 <br>
 
-## <span style="color:#988d81;">***Self Use :*** some code for self use</span>
+### 4. <span style="color:#9c8358;">**Algo Trading System :**</span>  market recommendation system for optimal entry points
+- Language : python
+- My Part : my **own** research project
+- key Features :
+    - Recommendation System
+    - NLP (sentiment analysis) / heuristic based strategies 
+    - data transfer optimizations
+    - RESTful API, with plans for future open-source release.
+
+- ***for further implementation information [press here]()***
+
+
+<br>
+
+## <span style="color:#988d81;">***Self Use :*** code for self use</span>
 - usefull code scopes 
-- library reviews 
-- implementation of different algorithms
+- syntax / library reviews
+- algorithm implementations
 - ***for further information [press_here](#self-use)***
 
 <br>
 
-## <span style="color:#988d81;">***Personal Research Project :*** maximization of product's profit, new product profit prediction</span>
-- Machine Learning (supervised)
-- DB (MySQL)
-- ***No further information (Confidential data and algorithms)***
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 
@@ -308,21 +332,10 @@
 
 <span style="color:#a2c09a;"></span>
 
-* **Algorithms** :
-
-    - Sorts :
-
-        - Sorter : recieves an array and sorts the array by every sort implementation in sort_impl (shows time complexity using tqdm)
-        - sort_impl : different implementations of sorting in ascending order
-        - intro sort
-        - insertion sort
-        - bubble sort
-        - merge sort
-        - heap sort
-        - quick sort
-        - bucket sort
-        - counting sort (also by digit)
-        - radix sort
+* **Algorithms** : different algorithms implementations in python
+    
+    - sorting algorithms
+    - sorter implementation (difference between implementations using tqdm)
         
     <br>
 
